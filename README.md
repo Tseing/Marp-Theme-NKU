@@ -4,7 +4,7 @@
 
 许多内容参考了 [@BeWaterMyFriend7 ](https://github.com/BeWaterMyFriend7) 的 [Marp-Theme-UCAS](https://github.com/BeWaterMyFriend7/Marp-Theme-UCAS) 主题，对此表示由衷的感谢。
 
-点击[这里]()的 pdf 文件可以看到完整的主题模版。
+点击[这里](https://github.com/Tseing/Marp-Theme-NKU/blob/master/docs/NKUmarp.pdf)的 pdf 文件可以看到完整的主题模版。
 
 该主题的样式定义在 `./themes/NKU.css` 中，如果你掌握 css 语法，可以尽情修改里面的样式。针对于某一页的样式，请使用 Marp 提供的局部样式修改。
 
@@ -18,7 +18,7 @@
 Marp-Theme-NKU
 ├─ docs             // 导出的 pdf 文件
 ├─ images           // 主题使用到的图片
-├─ NKUmarp.md       // NKU 主题文件
+├─ NKUmarp.md       // NKU 主题模版（在这里写内容）
 └─ themes
    └─ NKU.css       // NKU 主题样式文件
 ```
@@ -36,3 +36,13 @@ Marp-Theme-NKU
 也可以参考[我的博客文章]()。
 
 # Some Pictures
+
+![page 1](https://github.com/Tseing/Marp-Theme-NKU/raw/master/images/example/page1.png)
+
+![page 2](https://github.com/Tseing/Marp-Theme-NKU/raw/master/images/example/page2.png)
+
+![page 3](https://github.com/Tseing/Marp-Theme-NKU/raw/master/images/example/page3.png)
+
+![page 4](https://github.com/Tseing/Marp-Theme-NKU/raw/master/images/example/page4.png)
+
+![page 5](https://github.com/Tseing/Marp-Theme-NKU/raw/master/images/example/page5.png)
