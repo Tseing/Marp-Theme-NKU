@@ -27,6 +27,8 @@ section::after {
 header{
     font-size: 45px;
     color: white;
+    line-height: 50px;
+    margin-top: 20px;
     margin-bottom: 30px;
 }
 

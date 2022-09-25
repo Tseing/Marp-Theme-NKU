@@ -16,11 +16,15 @@
 
 ```
 Marp-Theme-NKU
-├─ docs             // 导出的 pdf 文件
-├─ images           // 主题使用到的图片
-├─ NKUmarp.md       // NKU 主题模版（在这里写内容）
+├─ docs              // 导出的 pdf 文件
+│  └─ NKUmarp.pdf
+├─ images            // 主题使用到的图片
+│  ├─ attachment     // 可能能用上的图片
+│  └─ example        // 示例图片，可删去
+├─ NKUmarp.md        // NKU 主题模版（在这里写内容）
 └─ themes
-   └─ NKU.css       // NKU 主题样式文件
+   └─ NKU.css        // NKU 主题样式文件
+
 ```
 
 # 使用
@@ -33,7 +37,7 @@ Marp-Theme-NKU
 "markdown.marp.enableHtml": true
 ```
 
-也可以参考[我的博客文章]()。
+下载本仓库后，可以将 `docs` `example` 删去，复制 `NKUmarp.md` 文件后在其中编写 slide，可以在 `images` 建立若干子文件夹用于存储需要导入 slide 的图片，便于项目分类管理。
 
 # Some Pictures
 
