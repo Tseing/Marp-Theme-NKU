@@ -151,13 +151,13 @@ $$
 ---
 
 <!--_header: 6 图片展示 -->
-<!-- _footer: (Siyuan Hall, *Nankai University*, **Tientsin**) -->
+<!-- _footer: 用 `_footer` 在下方添加参考文献 (Siyuan Hall, *Nankai University*, **Tientsin**) -->
 
 ### 普通图片
 
-![img w:500px](images/photo.jpg)![img w:300px](images/photo.jpg)
+![img w:450px](images/photo.jpg)![img w:300px](images/photo.jpg)
 
-<br />
+<note>使用 `<note>` 标签可以为图表添加注解</note>
 
 Siyuan Hall is the most distinctive part of the building is the six Roman columns on the platform.
 
