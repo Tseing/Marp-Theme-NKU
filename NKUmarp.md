@@ -2,8 +2,8 @@
 marp: true
 paginate: true
 theme: NKU
-backgroundImage: url("./images/bg1.jpg")
 math: mathjax
+size: 16:9
 ---
 
 <!-- _paginate: false -->
@@ -22,7 +22,7 @@ math: mathjax
     }
 </style>
 
-![bg](./images/cover.jpg)
+![bg](./images/cover16-9.jpg)
 
 # 汇报题目 h1 样式
 
@@ -36,7 +36,7 @@ Nankai University
 
 <!-- _header: 目录 -->
 
-![bg left:45%](./images/bg2.jpg)
+![bg left:40%](./images/bg2.jpg)
 
 ###### 1 Slide 概述
 ###### 2 文字展示
@@ -203,7 +203,7 @@ Siyuan Hall is the most distinctive part of the building is the six Roman column
 
 <!-- _paginate: false  -->
 
-![bg](./images/bg3.jpg)
+![bg](./images/bg3-16-9.jpg)
 
 # 请各位老师批评指正
 
