@@ -22,7 +22,7 @@ size: 16:9
     }
 </style>
 
-![bg](./images/cover16-9.jpg)
+![bg](./images/cover-16-9.jpg)
 
 # 汇报题目 h1 样式
 
